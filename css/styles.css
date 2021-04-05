@@ -49,6 +49,9 @@ a:hover {
 	width: 100%;
 	height: 100%;
 }
+.art:hover {
+	box-shadow: 0.5rem 0.5rem 0 #ccc;
+}
 
 @media (min-width: 640px) { /* sm */
 }
