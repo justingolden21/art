@@ -45,6 +45,15 @@ a:hover {
 	border: 4px solid #b2badf;
 }
 
+.art.square {
+	width: 24rem;
+	height: 24rem;
+}
+
+.art.long {
+	width: 32rem;
+}
+
 .art svg {
 	width: 100%;
 	height: 100%;
