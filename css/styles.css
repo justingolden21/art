@@ -42,7 +42,7 @@ a:hover {
 	height: 12rem;
 	padding: 1rem;
 	margin: 1rem;
-	border: 4px solid #999;
+	border: 4px solid #b2badf;
 }
 
 .art svg {
@@ -50,7 +50,7 @@ a:hover {
 	height: 100%;
 }
 .art:hover {
-	box-shadow: 0.5rem 0.5rem 0 #ccc;
+	box-shadow: 0.5rem 0.5rem 0 #d4d4dd;
 }
 
 @media (min-width: 640px) { /* sm */
